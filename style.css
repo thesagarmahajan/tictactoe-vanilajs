@@ -1,0 +1,21 @@
+.square-button{
+    height:100px;
+    width: 100px;
+    background: black;
+    outline: none;
+    color:white;
+    font-size: 60px;
+}
+.square-button:hover{
+    border: solid rgb(255, 0, 0) 5px;
+}
+
+.postwin{
+    display: flex;
+    justify-content: center;
+}
+
+.gamearea{
+    display: flex;
+    justify-content: center;
+}
